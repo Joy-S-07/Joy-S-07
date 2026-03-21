@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently student at Narula Institute of Technlogy<br>wanna do web dev<br>vibe coder<br>Want to become AI engineer and Full stack Web Developer<br>Currently Learning MERN stack development and Macine LEarning<br><br>
+I'm currently student at Narula Institute of Technlogy<br>Wanna do web dev<br>Vibe coder<br>Want to become AI engineer and Full stack Web Developer<br>Currently Learning MERN stack development and Macine LEarning<br><br>
 
 
 ## 🌐 Socials:
