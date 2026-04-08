@@ -79,19 +79,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joy-S-07&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&hide_border=true" width="100%" alt="Joy's GitHub Activity Graph" />
 </div>
 <br/>
----
-
-### 🚀 Top Projects
-
-| 🤖 [ULTRON-The_Virtual_Assistant](https://github.com/Joy-S-07/ULTRON-The_Virtual_Assistant) | 💬 [Auto-Chat-Replier](https://github.com/Joy-S-07/Auto-Chat-Replier) |
-| :--- | :--- |
-| An AI-powered Virtual Assistant to automate daily life tasks. Built with Python. | An AI-based Assistant that helps auto-reply to messages. Built with Python. |
-
-| 🌐 [Portfolio](https://gojodev.vercel.app) | 📹 [YouTube-Video-Summarizer](https://github.com/Joy-S-07/YouTube-Video-Summarizer) |
-| :--- | :--- |
-| A fully functional portfolio website to showcase my works and skills. | An AI-based tool to summarize any YouTube Video. Built with Python. |
-
----
 
 ### 🤝 Let's Connect!
 
