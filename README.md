@@ -10,6 +10,7 @@
 ### 💫 About Me
 - 🎓 I'm currently a student at **Narula Institute of Technology**, Kolkata.
 - 💻 I am a **Vibe Coder** passionate about Web Development and Artificial Intelligence.
+- ✴️ Passionate **Front-End Developer**
 - 🚀 Aspiring **AI Engineer** and **Full-Stack Web Developer**.
 - 🧠 Currently learning **MERN stack development** and **Machine Learning**.
 - 📍 Based in Kolkata, West Bengal, India.
